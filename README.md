@@ -145,8 +145,6 @@
     </td>
   </tr>
   
-</table>
-
  <tr>
     <th colspan="2" style="text-align:center;"><h3>JavaScript</h3></th>
   </tr>
