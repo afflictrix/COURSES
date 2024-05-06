@@ -120,7 +120,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/" width="100%" title="Jmeter">
+      <img src="image/nt jmeter-1.png" width="100%" title="Jmeter">
     </td>
   </tr>
   
