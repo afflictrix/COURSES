@@ -12,7 +12,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/" width="100%" title="Docker">
+      <img src="image/docker-1.png" width="100%" title="Docker">
     </td>
   </tr>
   
