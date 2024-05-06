@@ -80,7 +80,6 @@
 <br>Basics of JavaScript
 <br>Libraries node.js and chai.js
 <br>API Work
-<br>SQL
 
   </td>
     <td width="70%">
@@ -100,7 +99,6 @@
 <br>Basics of JavaScript
 <br>Libraries node.js and chai.js
 <br>API Work
-<br>SQL
 
   </td>
     <td width="70%">
