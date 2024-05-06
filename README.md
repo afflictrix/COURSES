@@ -30,7 +30,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/" width="100%" title="Gitlab">
+      <img src="image/gitlab-1.png" width="100%" title="Gitlab">
   </td>
   </tr>
   
@@ -47,7 +47,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/" width="100%" title="Jenkins">
+      <img src="image/jenkins-1.png" width="100%" title="Jenkins">
     </td>
   </tr>
   
@@ -64,7 +64,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/" width="100%" title="Kubernetes">
+      <img src="image/k8s-1.png" width="100%" title="Kubernetes">
     </td>
   </tr>
   
@@ -84,7 +84,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/" width="100%" title="Postman">
+      <img src="image/postman-1.png" width="100%" title="Postman">
     </td>
   </tr>
 
@@ -104,7 +104,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/" width="100%" title="Postman automation">
+      <img src="image/postman_automation-1.png" width="100%" title="Postman automation">
     </td>
   </tr>
   
@@ -141,7 +141,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/" width="100%" title="SQL">
+      <img src="image/sql-1.png" width="100%" title="SQL">
     </td>
   </tr>
   
@@ -158,7 +158,7 @@
 
   </td>
     <td width="70%">
-      <img src="image/" width="100%" title="JavaScript">
+      <img src="image/js-1.png" width="100%" title="JavaScript">
     </td>
   </tr>
   
