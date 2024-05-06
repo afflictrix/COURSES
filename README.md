@@ -159,5 +159,41 @@
       <img src="image/js-1.png" width="100%" title="JavaScript">
     </td>
   </tr>
+
+<tr>
+    <th colspan="2" style="text-align:center;"><h3>Postman automation</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
+
+<br>Test automation for REST API with Postman
+<br>API automation
+<br>Infrastructure & Notifications
+<br>Basics of JavaScript
+<br>Libraries node.js and chai.js
+<br>API Work
+
+  </td>
+    <td width="70%">
+      <img src="image/postman2.png" width="100%" title="Postman automation">
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="2" style="text-align:center;"><h3>Design testing techniques</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
+
+<br>Prototype Evaluation
+<br>Iterative Design Assessment
+<br>Comparative Analysis
+
+  </td>
+    <td width="70%">
+      <img src="image/ttd.png" width="100%" title="Postman automation">
+    </td>
+  </tr>
   
 </table>
+
